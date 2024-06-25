@@ -1,13 +1,21 @@
 body {
   color: #c1b492;
+  color: #000000;
 }
 
 h1 {
   font-size: 30px;
   font-family: Zeyada, sans-serif;
+  color: #E97451;
 }
 
 h5 {
+  font-size: 20px;
+  font-family: Zeyada, sans-serif;
+  color: #E97451;
+}
+
+a {
   font-size: 20px;
   font-family: Zeyada, sans-serif;
   color: #E97451;
