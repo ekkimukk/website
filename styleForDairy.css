@@ -1,0 +1,33 @@
+p {
+  font-size: 17px;
+  letter-spacing: 0px;
+  font-family: "Caveat";
+  color: #E97451;
+}
+
+h5 {
+  font-size: 20px;
+  font-family: "Caveat";
+  color: #E97451;
+}
+
+b {
+  font-size: 20px;
+  font-family: "Caveat";
+  color: #E97451;
+}
+
+.diary {
+  width: 800px;
+  background-color: #ffffff;
+  background-image: ;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  box-shadow: #c1b492 0px 5px 10px;
+  text-align: center;
+  letter-spacing: 8px;
+  font-size: 10px;
+  padding-top: 20px;
+}
